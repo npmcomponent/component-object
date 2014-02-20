@@ -1,17 +1,11 @@
 {
-  "name": "object-component",
+  "name": "component-object",
+  "description": "Object keys / values / length",
   "version": "0.0.3",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "object/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/object.git"
-  }
+  "keywords": [
+    "object",
+    "keys",
+    "utility"
+  ],
+  "dependencies": {}
 }
